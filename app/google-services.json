@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094270009272",
+    "firebase_url": "https://opensudoku-d367a.firebaseio.com",
+    "project_id": "opensudoku-d367a",
+    "storage_bucket": "opensudoku-d367a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094270009272:android:5592407ccb535df2",
+        "android_client_info": {
+          "package_name": "org.moire.opensudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094270009272-t7033vi16vda248irrf3a3j9hevaudfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxr2wnMCcJiDCpMEbRS_jQpiPHw43avo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
